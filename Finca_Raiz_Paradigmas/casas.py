@@ -1,0 +1,23 @@
+casas = [
+        ["Diagonal 79A # 76 - 256, Medellín", 323000000, "Apartamento"],
+        ["Carrera 71A # 53 - 25, Medellín", 617792383, "Apartamento"],
+        ["Carrera 45F # 73-50, Medellín", 203504000, "Apartamento"],
+        ["Carrera 77 C # 48-37, Medellín", 707425000, "Apartamento"],
+        ["Calle 20 # 43G-122, Medellín", 499408273, "Apartamento"],
+        ["Carrera 27b # 17 45, Medellín", 641238000, "Apartamento"],
+        ["Calle 20 # 43G-117, Medellín", 433350000, "Apartamento"],
+        ["Carrera 71A # 53 - 25, Medellín", 617792383, "Apartamento"],
+        ["Calle 17 #43f-122, Medellín", 602000000, "Apartamento"],
+        ["Carrera 77 # 28 - 13, Medellín", 633832000, "Apartamento"],
+        ["Calle 17 #43f-122, Medellín", 949848700, "Apartamento"],
+        ["Calle 46 #69-18, Medellín", 269280000, "Apartamento"],
+        ["Calle 31 # 58-23, Medellín", 265000000, "Apartamento"],
+        ["Calle 11 # 45-50, Medellín", 245000000, "Apartamento"],
+        ["Carrera 51 # 22-35, Medellín", 255000000, "Apartamento"],
+        ["Calle 36 # 52-18, Medellín", 290005000, "Apartamento"],
+        ["Calle 7 # 41-39, Medellín", 310500000, "Apartamento"],
+        ["Carrera 46 # 27-29, Medellín", 325000000, "Apartamento"],
+        ["Carrera 34 # 27-19, Medellín", 814719000, "Apartamento"],
+        ["Carrera 50 # 57-23, Medellín", 164810930, "Apartamento"],
+        ["Carrera 70 # 34-59, Medellín", 1547910400, "Apartamento"]
+    ]
